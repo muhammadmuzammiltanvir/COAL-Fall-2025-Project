@@ -8,6 +8,14 @@ This project was developed as part of the Computer Organization and Assembly Lan
 
 ---
 
+## Screenshots
+
+<img width="696" height="230" alt="image" src="https://github.com/user-attachments/assets/b49f111e-4eef-46ec-b8f5-270baf599001" />
+
+<img width="725" height="671" alt="image" src="https://github.com/user-attachments/assets/42cb475b-aa83-4130-8e02-849bc970c9f2" />
+
+<img width="702" height="185" alt="image" src="https://github.com/user-attachments/assets/1a5153a0-230e-481c-88df-e45634bd409e" />
+
 ## Features
 
 - Support for 1, 2, or 3 players
@@ -127,16 +135,6 @@ Through this project, we gained practical experience in:
 - High-score leaderboard
 - More complex number patterns
 - Improved user interface
-
----
-
-## Course Information
-
-**Course:** Computer Organization and Assembly Language (COAL)
-
-**Language:** x86 Assembly (MASM)
-
-**Library:** Irvine32
 
 ---
 
