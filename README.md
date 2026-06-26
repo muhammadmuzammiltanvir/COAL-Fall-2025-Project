@@ -122,7 +122,6 @@ Through this project, we gained practical experience in:
 ## Contributors
 
 - Muhammad Nouman Anwar
-- Abdul Samad Lakho
 - M. Muzammil Tanvir 
 
 ---
