@@ -8,6 +8,13 @@ This project was developed as part of the Computer Organization and Assembly Lan
 
 ---
 
+## 📘 Project Information
+
+- **Course:** Computer Organization and Assembly Language (COAL)
+- **Semester:** Fall 2025
+
+---
+
 ## Screenshots
 
 <img width="696" height="230" alt="image" src="https://github.com/user-attachments/assets/b49f111e-4eef-46ec-b8f5-270baf599001" />
